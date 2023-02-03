@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\New folder (3)\bin\Debug\net5.0\girl.exe
+C:\Users\hp\Desktop\New folder (3)\bin\Debug\net5.0\girl.deps.json
+C:\Users\hp\Desktop\New folder (3)\bin\Debug\net5.0\girl.runtimeconfig.json
+C:\Users\hp\Desktop\New folder (3)\bin\Debug\net5.0\girl.runtimeconfig.dev.json
+C:\Users\hp\Desktop\New folder (3)\bin\Debug\net5.0\girl.dll
+C:\Users\hp\Desktop\New folder (3)\bin\Debug\net5.0\ref\girl.dll
+C:\Users\hp\Desktop\New folder (3)\bin\Debug\net5.0\girl.pdb
+C:\Users\hp\Desktop\New folder (3)\obj\Debug\net5.0\girl.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\New folder (3)\obj\Debug\net5.0\girl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\New folder (3)\obj\Debug\net5.0\girl.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\New folder (3)\obj\Debug\net5.0\girl.AssemblyInfo.cs
+C:\Users\hp\Desktop\New folder (3)\obj\Debug\net5.0\girl.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\New folder (3)\obj\Debug\net5.0\girl.dll
+C:\Users\hp\Desktop\New folder (3)\obj\Debug\net5.0\ref\girl.dll
+C:\Users\hp\Desktop\New folder (3)\obj\Debug\net5.0\girl.pdb
+C:\Users\hp\Desktop\New folder (3)\obj\Debug\net5.0\girl.genruntimeconfig.cache
